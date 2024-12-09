@@ -1,4 +1,4 @@
-# 📚 StudyNotion
+# 📚 MyTutor
 
 [![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://study-notion-nine-chi.vercel.app/)
 
