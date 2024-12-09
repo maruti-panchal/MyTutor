@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://study-notion-nine-chi.vercel.app/)
 
-StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. Built with the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS), it provides a seamless and interactive learning experience for students and a platform for instructors to showcase their expertise.
+MyTutor is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. Built with the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS), it provides a seamless and interactive learning experience for students and a platform for instructors to showcase their expertise.
 
 ## 🌟 Features
 
@@ -37,15 +37,12 @@ StudyNotion is a fully functional ed-tech platform that enables users to create,
 
 ## 🏗️ System Architecture
 
-StudyNotion follows a client-server architecture with three main components:
+MuTutor follows a client-server architecture with three main components:
 
 1. **Frontend:** Built with ReactJS for a dynamic and responsive UI.
 2. **Backend:** Built with NodeJS and ExpressJS to handle business logic and API endpoints.
 3. **Database:** MongoDB for flexible and scalable data storage.
 
-## 🔗 Live Demo
-
-Check out the live version of the project: [StudyNotion Live](https://study-notion-nine-chi.vercel.app/)
 
 ## 📖 API Endpoints
 
